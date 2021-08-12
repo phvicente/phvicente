@@ -1,16 +1,59 @@
-### Hi there 👋
+## Hi bots <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif width="30">
 
-<!--
-**wogoo/wogoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
 
-Here are some ideas to get you started:
+<p>
+  <em>
+    I'm just an <b>Android Developer</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px">
+  </em>  
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+## Tools:
+
+<a href="https://github.com/wogoo">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wogoo&theme=dark&hide_langs_below=1" />
+</a>
+
+<a href="https://github.com/wogoo">
+ <img align="left" src="https://github-readme-stats.vercel.app/api?username=wogoo&show_icons=true&theme=dark&line_height=27" alt="Shubhamdeep's github stats"/>
+</a>
+
+
+<a href="https://github.com/wogoo/KotProjs21">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wogoo&repo=KotProjs21&theme=dark" />
+</a>
+<br>
+<table>
+  <tbody>
+    <tr valign="top">
+      <td width="20px" align="center">        
+        <img height="64px" src="https://cdn.svgporn.com/logos/html-5.svg">
+      </td>
+      <td width="15%" align="center">        
+        <img height="64px" src="https://cdn.svgporn.com/logos/css-3.svg">
+      </td>
+      <td width="15%" align="center">        
+        <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
+      </td>
+      <td width="15%" align="center">        
+        <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
+      </td>
+       <td width="15%" align="center">        
+        <img height="64px" src="https://cdn.svgporn.com/logos/kotlin.svg">
+      </td>
+      <td width="15%" align="center">        
+        <img height="64px" src="https://cdn.svgporn.com/logos/java.svg">
+      </td>  
+       <td width="15%" align="center">        
+        <img height="64px" src="https://cdn.svgporn.com/logos/android.svg">
+      </td> 
+    </tr>
+
+<!-- <a href="https://github.com/TheDudeThatCode/Fun-with-DS-and-Algo">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TheDudeThatCode&repo=Fun-with-DS-and-Algo&theme=dark" />
+</a> -->
+
+<br>
+
