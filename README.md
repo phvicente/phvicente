@@ -4,7 +4,7 @@
 
 <p>
   <em>
-    I'm just an <b>Android Developer</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px">
+    I'm just an <b>... Developer</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px">
   </em>  
 </p>
 
