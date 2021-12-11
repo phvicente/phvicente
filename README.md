@@ -47,7 +47,7 @@
         <img height="64px" src="https://cdn.svgporn.com/logos/java.svg">
       </td>  
        <td width="15%" align="center">        
-        <img height="64px" src="https://cdn.svgporn.com/logos/android.svg">
+        <img height="64px" src="https://cdn.svgporn.com/logos/spring-icon.svg">
       </td> 
     </tr>
 
