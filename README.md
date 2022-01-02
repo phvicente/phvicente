@@ -24,6 +24,9 @@
 <a href="https://github.com/wogoo/KotProjs21">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wogoo&repo=KotProjs21&theme=dark" />
 </a>
+<a href="https://github.com/wogoo/KotProjs21">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wogoo&repo=KotProjs21&theme=dark" />
+</a>
 <br>
 <table>
   <tbody>
