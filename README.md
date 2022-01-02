@@ -24,8 +24,8 @@
 <a href="https://github.com/wogoo/KotProjs21">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wogoo&repo=KotProjs21&theme=dark" />
 </a>
-<a href="https://github.com/wogoo/KotProjs21">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wogoo&repo=KotProjs21&theme=dark" />
+<a href="https://github.com/wogoo/mercatopoke">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wogoo&repo=mercatopoke&theme=dark" />
 </a>
 <br>
 <table>
