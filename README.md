@@ -21,6 +21,10 @@
 </a>
 
 <br>
+<hr>
+
+
+## Projects:
 
 <a href="https://github.com/wogoo/KotProjs21">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wogoo&repo=KotProjs21&theme=dark" />
@@ -29,6 +33,10 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wogoo&repo=mercatopoke&theme=dark" />
 </a>
 <br>
+<hr>
+
+## Techs:
+
 <table>
   <tbody>
     <tr valign="top">
