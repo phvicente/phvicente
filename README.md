@@ -8,7 +8,7 @@
 
 <br>
 
-## Tools:
+## More:
 
 <a href="https://github.com/wogoo">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wogoo&theme=dark&hide_langs_below=1" />
@@ -25,31 +25,12 @@
 
 ## Techs:
 
-<table>
-  <tbody>
-    <tr valign="top">
-      <td width="20px" align="center">        
-        <img height="64px" src="https://cdn.svgporn.com/logos/html-5.svg">
-      </td>
-      <td width="15%" align="center">        
-        <img height="64px" src="https://cdn.svgporn.com/logos/css-3.svg">
-      </td>
-      <td width="15%" align="center">        
-        <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
-      </td>
-      <td width="15%" align="center">        
-        <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
-      </td>
-       <td width="15%" align="center">        
-        <img height="64px" src="https://cdn.svgporn.com/logos/kotlin.svg">
-      </td>
-      <td width="15%" align="center">        
-        <img height="64px" src="https://cdn.svgporn.com/logos/java.svg">
-      </td>  
-       <td width="15%" align="center">        
-        <img height="64px" src="https://cdn.svgporn.com/logos/spring-icon.svg">
-      </td> 
-    </tr>
+[![KOTLIN](https://img.shields.io/badge/Kotlin-7730B1?style=for-the-badge&logo=kotlin&logoColor=white)](https://kotlinlang.org/)
+[![SPRING](https://img.shields.io/badge/Spring-439217?style=for-the-badge&logo=spring&logoColor=white)](https://spring.io/projects/spring-boot)
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+[![JAVA](https://img.shields.io/badge/Java-942410?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/pt-BR/download/help/develop.html)
+[![JAVASCRIPT](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 
 <!-- <a href="https://github.com/TheDudeThatCode/Fun-with-DS-and-Algo">
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TheDudeThatCode&repo=Fun-with-DS-and-Algo&theme=dark" />
