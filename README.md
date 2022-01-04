@@ -8,7 +8,7 @@
 
 <br>
 
-## Techs:
+## 🔧Techs:
 
 [![KOTLIN](https://img.shields.io/badge/Kotlin-7730B1?style=for-the-badge&logo=kotlin&logoColor=white)](https://kotlinlang.org/)
 [![SPRING](https://img.shields.io/badge/Spring-439217?style=for-the-badge&logo=spring&logoColor=white)](https://spring.io/projects/spring-boot)
@@ -19,7 +19,7 @@
  
 <br>
  
-## More:
+## ➕More:
 
 <a href="https://github.com/wogoo">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wogoo&theme=dark&hide_langs_below=1" />
