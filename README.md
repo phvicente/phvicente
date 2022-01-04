@@ -1,12 +1,10 @@
-## Hey! Welcome to my profile! <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif width="30">
+## Hey, I'm Paulo Henrique <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif width="30">
 
 <br>
 
-<p>
-  <em>
-    I'm just an <b>... Developer</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px">
-  </em>  
-</p>
+  - 🤖 Hi Bots!
+  - 🪣 I'm currently a Back-End Developer, with a bit of 🦾
+  - 🔭 HTML - CSS - Kotlin - Java.
 
 <br>
 
@@ -24,16 +22,6 @@
 <hr>
 
 
-## Projects:
-
-<a href="https://github.com/wogoo/KotProjs21">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wogoo&repo=KotProjs21&theme=dark" />
-</a>
-<a href="https://github.com/wogoo/mercatopoke">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wogoo&repo=mercatopoke&theme=dark" />
-</a>
-<br>
-<hr>
 
 ## Techs:
 
