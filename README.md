@@ -3,7 +3,7 @@
 <br>
 
   - 🤖 Hi Bots!
-  - 🪣 I'm currently a Back-End Developer, with a little over a million things to do 🦾
+  - 🪣 I'm currently a Back-End Developer, with a little a million things to do 🦾
   - 🔭 Kotlin
 
 <br>
