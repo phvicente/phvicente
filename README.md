@@ -1,4 +1,4 @@
-## Hey, I'm Paulo Henrique <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif width="30">
+## Hey, I'm Paulo <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif width="30">
 
 <br>
 
