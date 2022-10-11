@@ -3,7 +3,7 @@
 <br>
 
   - 🤖 Hi Bots!
-  - 🪣 I'm currently an Android Developer, with a little a million things to do 🦾
+  - 🪣 I'm currently a Developer, with a little a million things to do 🦾
   - 🔭 Keep
 
 <br>
@@ -35,7 +35,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paulo-henrique-vicen/)
 <!--  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://www.linkedin.com/in/paulo-henrique-vicen/)  -->
 
-## My GitHub Stats <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/github.gif' width='32px' height=32px>
+## <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/github.gif' width='32px' height=32px> My GitHub Stats 
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=wogoo&theme=dark)](https://git.io/streak-stats)
 
