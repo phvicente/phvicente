@@ -29,8 +29,12 @@
 <!-- [![REACT](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://pt-br.reactjs.org/) -->
 
 <br>
- 
+<hr>
 
+<!--
+## My projects
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wogoo&repo=notes-app)](https://github.com/wogoo/notes-app)
+-->
 
 ## <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/github.gif' width='32px' height=32px> My GitHub Stats 
 
