@@ -44,7 +44,7 @@
 
 
  <a href="https://github.com/wogoo">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wogoo&langs_count=5&hide=css,html&theme=dark&hide_langs_below=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wogoo&langs_count=5&hide=css,html,scss&theme=dark&hide_langs_below=1" />
 </a>
 
 
