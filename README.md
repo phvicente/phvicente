@@ -32,17 +32,16 @@
 <!-- [![REACT](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://pt-br.reactjs.org/) -->
 
 <br>
-<hr>
+
 
 <!--
 ## My projects
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wogoo&repo=notes-app)](https://github.com/wogoo/notes-app)
 -->
-
+<!--
 ## <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/github.gif' width='32px' height=32px> My GitHub Stats 
 
 <!--[![GitHub Streak](https://streak-stats.demolab.com?user=wogoo&theme=dark)](https://git.io/streak-stats)
--->
 
  <a href="https://github.com/wogoo">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wogoo&langs_count=5&hide=css,html,scss&theme=dark&hide_langs_below=1" />
@@ -55,7 +54,7 @@
 
 <br>
 <hr>
-
+-->
 ## ➕More:
  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paulo-henrique-vicen/)
