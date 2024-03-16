@@ -3,7 +3,6 @@
 <br>
 
   - 🤖 Hi Bots!
-  - 🪣 
   - 🔭 Keep
 
 <br>
@@ -16,12 +15,13 @@
 [![SPRING](https://img.shields.io/badge/Spring_Boot-439217?style=for-the-badge&logo=spring&logoColor=white)](https://spring.io/projects/spring-boot)
 [![POSTGRESSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 [![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://azure.microsoft.com/pt-br/)
-[![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
+
 <!--  
 [![TYPESCRIPT](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/) 
 [![JAVASCRIPT](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 [![EXPRESS](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)](https://expressjs.com/pt-br/) 
+[![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
 [![GO](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)](https://go.dev/) 
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
 [![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/en/)
@@ -66,7 +66,9 @@
 
 <!-- <a href="https://github.com/TheDudeThatCode/Fun-with-DS-and-Algo">
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TheDudeThatCode&repo=Fun-with-DS-and-Algo&theme=dark" />
-</a> -->
-
+</a> 
 <br>
+-->
+
+
 
