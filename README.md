@@ -3,7 +3,7 @@
 <br>
 
   - 🤖 Hi Bots!
-  - 🪣 I'm currently a Developer, with a little a million things to do 🦾
+  - 🪣 
   - 🔭 Keep
 
 <br>
