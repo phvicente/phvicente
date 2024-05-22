@@ -7,6 +7,7 @@
 
 <br>
 
+<!--  
 ## 🔧Techs:
 
 
@@ -15,7 +16,7 @@
 [![SPRING](https://img.shields.io/badge/Spring_Boot-439217?style=for-the-badge&logo=spring&logoColor=white)](https://spring.io/projects/spring-boot)
 [![POSTGRESSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 [![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://azure.microsoft.com/pt-br/)
-
+-->
 <!--  
 [![TYPESCRIPT](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/) 
 [![JAVASCRIPT](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
